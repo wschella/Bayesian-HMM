@@ -79,3 +79,7 @@ def test_mcmc():
     )
 
     # TODO: check that internal structure of p_* histories is consistent
+
+
+if __name__ == "__main__":
+    test_mcmc()
